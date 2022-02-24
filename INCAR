@@ -1,0 +1,12 @@
+SYSTEM=naphthalene crystal
+ENCUT = 300
+PREC = Normal
+ALGO = VeryFast
+IALGO = 48
+SMASS = -3
+NSW = 3000
+IBRION = 0 ! ab-initio MD
+POTIM = 0.5
+TEBEG = 300
+TEEND = 300
+
